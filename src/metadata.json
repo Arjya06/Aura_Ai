@@ -1,0 +1,5 @@
+{
+  "name": "Aura-Ai: Anomaly Detection Dashboard",
+  "description": "A web-based dashboard simulating Sentinel AI's emotion and context-aware fraud/anomaly detection system. It visualizes a real-time stream of user interaction events, analyzes them for anomalies, and uses AI to explain high-risk alerts.",
+  "requestFramePermissions": []
+}
