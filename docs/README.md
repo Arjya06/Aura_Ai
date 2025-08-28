@@ -4,7 +4,7 @@
 
 Current anomaly detection systems rely on rigid rules and static thresholds, leading to false positives, missed threats, and poor explainability. They fail to capture subtle behavioral and contextual cues—such as a legitimate user under stress or an intruder mimicking credentials.
 
-Aura-AI solves this by introducing an emotion and context-aware anomaly detection system that analyzes digital body language (typing, mouse behavior) alongside contextual risk factors (time, location, network). It fuses these insights into a holistic anomaly score and empowers analysts with an AI Co-Pilot for real-time, explainable investigations—making security monitoring more accurate, intelligent, and human-friendly.
+# Aura-AI solves this by introducing an emotion and context-aware anomaly detection system that analyzes digital body language (typing, mouse behavior) alongside contextual risk factors (time, location, network). It fuses these insights into a holistic anomaly score and empowers analysts with an AI Co-Pilot for real-time, explainable investigations—making security monitoring more accurate, intelligent, and human-friendly.
 🌌 Aura-AI: Anomaly Detection Dashboard
 🔎 The Problem
 
