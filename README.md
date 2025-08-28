@@ -32,6 +32,9 @@ Multi-agent system that runs fully on-device, continuously learning and modeling
 
 - **Demo Video Link** - *(Upload the Demo video on Youtube as a public or unlisted video and share the link. Google Drive uploads or any other uploads are not allowed.)*
 
+<img width="1100" height="456" alt="Screenshot 2025-08-28 143845" src="https://github.com/user-attachments/assets/8265d442-454f-48dd-9c10-49ef57494b2a" />
+
+
   <img width="947" height="763" alt="Screenshot 2025-08-28 143913" src="https://github.com/user-attachments/assets/b2d39175-3288-47ec-bd1e-022f692232b9" />
 <img width="711" height="693" alt="Screenshot 2025-08-28 143902" src="https://github.com/user-attachments/assets/0488e425-4d12-484f-b503-2a5e6ac6249a" />
 
