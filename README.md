@@ -28,6 +28,8 @@ Multi-agent system that runs fully on-device, continuously learning and modeling
 
 -**Team members** - ARJYA BANERJEE
 
+-**App Deployment link**- https://aura-ai-anomaly-detection-dashboard-935170585300.us-west1.run.app
+
 - **Demo Video Link** - *(Upload the Demo video on Youtube as a public or unlisted video and share the link. Google Drive uploads or any other uploads are not allowed.)*
 
 
